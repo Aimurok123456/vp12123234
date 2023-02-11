@@ -1,0 +1,45 @@
+.container{
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.footerTop{
+    margin-top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.center{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.social{
+    margin: 3px;
+    width: 30px;
+    height: 30px;
+}
+
+.form{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.input{
+    border: 1px solid #006195;
+    border-radius: 10px 0 0 10px;
+    position: relative;
+    width: 531px;
+    height: 40px;
+}
+.btn{
+    position: absolute;
+    right: 480px;
+    width: 161px;
+    height: 43px;
+    border-radius: 10px;
+    border: 1px solid #006195;
+    background-color: #006195;
+    color: #FFFFFF;
+}
+.sneakers{
+    float: right;
+}

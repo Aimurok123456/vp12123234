@@ -1,0 +1,98 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    color: #000000;
+    text-decoration: none;
+
+}
+ul{
+    list-style: none;
+}
+.container{
+    margin-right: 80px;
+    margin-left: 80px;
+    
+}
+.navTop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hidden{
+    visibility: hidden;
+}
+.navRecords{
+    display: flex;
+    align-items: center;
+    margin: 0;
+}  
+.delivery{
+    padding-right: 10px;
+    margin-right: 8px;
+} 
+.contacts{
+    padding: 10px;
+}
+
+.navFolder{
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 17px;
+    border-top: 1px solid #8E8E8F;
+
+}
+.nav__container{
+    padding: 0;
+    
+}
+.nav__catalog{
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    padding: 0;
+}
+.women{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.input{
+    background-image: url(../assets/founder.svg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 44px 44px;
+    width: 581.18px;
+    height: 59.87px;
+    border-radius: 10px;
+    border: 1px solid #006195;
+    padding-left: 40px;
+    line-height: 70px;
+    
+}
+.input:focus-visible{
+    border: 1px solid #006195;
+}
+.individual{
+    display: flex;
+    align-items: center;
+    height: 30px;
+
+}
+.heart{
+    margin-right: 33.56px;
+    margin-left: 33.56px;
+}
+.bottom{
+    margin-top: 17px;
+    height: 15px;
+    background: #006195;
+
+}
+

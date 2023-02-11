@@ -1,0 +1,53 @@
+.container{
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.response{
+    margin: 0;
+    text-align: center;
+    padding-top: 43px;
+    padding-bottom: 24px;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.reviews{
+    background-color: #006195;
+
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.card{
+    background-color: #fff;
+    width: 394px;
+    border-radius: 10px;
+    padding: 30px 28px;
+    margin-bottom: 70px;
+    margin-right: 49px;
+    height: 232px;
+}
+.top{
+    display: flex;
+    align-items: center;
+}
+.face{
+    margin-right: 15px;
+}
+.person{
+    text-align: center;
+}
+.name{
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+}
+.star{
+    margin-bottom: 24px;
+}
+
